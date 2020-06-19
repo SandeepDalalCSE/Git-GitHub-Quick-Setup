@@ -20,3 +20,4 @@
 | 12. | ` git remote add origin https://github.com/SandeepDalal1995/Git-GitHub-Quick-Setup.git ` |
 | 13. | Now execute the below command to push the complete project on GitHub on `master` branch. |
 | 14. | ` git push -u origin master ` |
+| 15. | Need Help! - [Watch Video](https://youtu.be/Y4uqOVl3VMY) |
