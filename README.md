@@ -29,3 +29,8 @@
 | 1. | ` git remote add origin https://github.com/SandeepDalal1995/Git-GitHub-Quick-Setup.git ` |
 | 2. | ` git push -u origin master ` |
 
+### …or import code from another repository
+
+| No. | Steps |
+|----|----|
+| 1. | You can initialize this repository with code from a Subversion, Mercurial, or TFS project. |
